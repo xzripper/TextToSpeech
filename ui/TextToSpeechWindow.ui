@@ -161,7 +161,7 @@ border-radius: 3px;</string>
      </font>
     </property>
     <property name="text">
-     <string>BETA 0.1</string>
+     <string>BETA 0.2</string>
     </property>
    </widget>
    <widget class="QFrame" name="WindowFrame">
